@@ -3,3 +3,4 @@ This is a personal website based on awwwards sites. I used three.js for the 3D B
 
 </br>
 ![alt text](https://github.com/NikosKaloritis/PersonalBeeSite/blob/main/project_images/threeJSwebsite.png?raw=true)
+<img src="project_images/threeJSwebsite.png" >
