@@ -3,8 +3,8 @@ This is a personal website based on awwwards sites. I used three.js for the 3D B
 
 </br>
 <img src="project_images/threeJSwebsite.png" ></br>
-<img src="project_images/threeJSwebsite1.png" ></br>
 <img src="project_images/threeJSwebsite2.png" ></br>
-<img src="project_images/threeJSwebsite3.png" >
+<img src="project_images/threeJSwebsite3.png" ></br>
+<img src="project_images/threeJSwebsite4.png" >
 
 
